@@ -1,0 +1,30 @@
+Date,Area_Name,Road,Traffic_Volume,Average_Speed,Environmental_Impact,Public_Transport,Traffic_Compliance,Parking_Usage
+01-01-2022,Indiranagar,100 Feet Road,50590,50,151,71,84,85
+01-01-2022,Indiranagar,CMH Road,30825,29,112,42,91,60
+01-01-2022,Whitefield,Marathahalli Bridge,7399,54,65,45,61,95
+01-01-2022,Koramangala,Sony World Junction,60874,44,172,33,76,64
+01-01-2022,Koramangala,Sarjapur Road,57292,41,165,35,65,93
+01-01-2022,M.G. Road,Trinity Circle,47848,34,146,40,61,55
+01-01-2022,M.G. Road,Anil Kumble Circle,36574,30,123,72,82,90
+01-01-2022,Jayanagar,Jayanagar 4th Block,25379,38,101,46,88,68
+01-01-2022,Jayanagar,South End Circle,25022,35,100,44,99,62
+01-01-2022,Hebbal,Hebbal Flyover,31760,57,114,13,84,84
+01-01-2022,Hebbal,Ballari Road,38446,26,127,49,81,62
+01-01-2022,Yeshwanthpur,Yeshwanthpur Circle,15043,48,80,21,96,80
+02-01-2022,Indiranagar,100 Feet Road,22050,53,94,36,71,62
+02-01-2022,Indiranagar,CMH Road,37877,26,126,76,98,96
+02-01-2022,Koramangala,Sarjapur Road,29106,44,108,53,100,57
+02-01-2022,M.G. Road,Trinity Circle,53217,38,156,34,75,55
+02-01-2022,M.G. Road,Anil Kumble Circle,37584,46,125,16,62,77
+02-01-2022,Jayanagar,Jayanagar 4th Block,16676,54,83,39,67,58
+02-01-2022,Jayanagar,South End Circle,37509,52,125,63,61,56
+02-01-2022,Hebbal,Hebbal Flyover,6758,35,64,13,75,81
+02-01-2022,Hebbal,Ballari Road,30209,31,110,48,98,69
+02-01-2022,Yeshwanthpur,Yeshwanthpur Circle,20375,40,91,18,88,81
+02-01-2022,Yeshwanthpur,Tumkur Road,15636,33,81,63,90,55
+03-01-2022,Indiranagar,100 Feet Road,23457,39,97,33,87,88
+03-01-2022,Indiranagar,CMH Road,38925,34,128,53,64,54
+03-01-2022,Whitefield,Marathahalli Bridge,9154,40,68,16,91,78
+03-01-2022,Whitefield,ITPL Main Road,24968,37,100,71,69,98
+03-01-2022,Koramangala,Sony World Junction,51459,27,153,30,98,95
+03-01-2022,Koramangala,Sarjapur Road,28481,37,107,67,87,58
